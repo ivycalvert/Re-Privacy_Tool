@@ -124,4 +124,4 @@ The Machine Learning system is not required to be run on the local system in ord
 
 ## Acknowledgments
 
-* [Tom White](https://github.com/dribnet): For helping build and run the machine learning model that repurposed the spaCy text classificant library.
+* [Tom White](https://github.com/dribnet): For helping build and run the machine learning model that repurposed the spaCy text classification library.
