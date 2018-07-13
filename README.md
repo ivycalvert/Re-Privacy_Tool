@@ -104,10 +104,6 @@ These automated ranks only categorise the "Data Security" category.
 
 Only some of these websites listed will show positive/negative responses, as the ML model is still in the early stages of development. 
 
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
 ## Additional Notes
 
 The Machine Learning system is not required to be run on the local system in order to experience the browser extension tool, and has since NOT been included in this repository. However, the above listed automatically ranked websites were ranked using this system. 
