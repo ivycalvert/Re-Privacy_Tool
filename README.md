@@ -19,7 +19,7 @@ Download this repository as a zip
 ```
 This can be done via the green "Clone or Dowload" button found on the right of the screen
 
-Once the dowload has been completed, "unzip" the downloaded file
+Once the download has been completed, "unzip" the downloaded file
 ```
 
 Open the Google Chrome web browser and navigate to the chrome extensions page
