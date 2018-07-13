@@ -1,0 +1,168 @@
+<!-- the options that lets the user configure the extensison -->
+
+<html>
+    <head>
+        <!-- load javascript: jQuery 1.9.1 - http://jquery.com/ -->
+        <script type="text/javascript" src="../js/jquery-1.9.1.min.js"></script>
+
+        <!-- load javascript: Bootstrap v2.3.0 - http://twitter.github.com/bootstrap/ -->
+        <script type="text/javascript" src="../js/bootstrap.min.js"></script>
+
+        <!-- load stylesheets: Bootstrap v2.3.0 - http://twitter.github.com/bootstrap/index.html -->
+        <link rel="stylesheet" type="text/css" href="../css/bootstrap.min.css"></link>
+
+        <!-- load stylesheets: internal -->
+        <link rel="stylesheet" type="text/css" href="../css/global.css"></link>
+        <!-- <link rel="stylesheet" type="text/css" href="../css/main.css"></link> -->
+        <link rel="stylesheet" type="text/css" href="../css/options.css"></link>
+    
+    </head>
+    <body>
+        <div class="container">
+            <div class="floating-back">
+                <a href="main.html">
+                    <img id="back-icon" src="../images/back-arrow.png">
+                </a>
+            </div>
+
+            <div id="rank-content">
+                <h3>
+                    Ranks Explained
+                </h3>
+                <div class="section-element" id="rank-elem-0">
+                    <div class="orient">
+                        <img class="icon" src="../images/good.png">
+                        <h5 class="extra-pad"> 
+                            Good
+                        </h5>
+                    </div>
+                    <p class="content-section" id="rank-0">
+                        Categories with the rank "good" are defined as services that respect the user data, take
+                        measures to protect PII, and and allow the user control over their privacy. 
+                    </p>
+                </div>
+                <div class="section-element" id="rank-elem-1">
+                    <div class="orient">
+                        <img class="icon" src="../images/average.png">
+                        <h5 class="extra-pad"> 
+                            Average
+                        </h5>
+                    </div>
+                    <p class="content-section" id="rank-1">
+                        Categories with the rank "average" are defined as services that take limited measures to respect 
+                        the user data, take measures to protect PII, or and allow the user control over their privacy. 
+                    </p>
+                </div>
+                <div class="section-element" id="rank-elem-2">
+                    <div class="orient">
+                        <img class="icon" src="../images/bad.png">
+                        <h5 class="extra-pad"> 
+                            Bad
+                        </h5>
+                    </div>
+                    <p class="content-section" id="rank-2">
+                        Categories with the rank "bad" are defined as services which do not protect user data (especially
+                        in regard to PII), and/or do not allow the user control over the treatment of the data they disclose.
+                    </p>
+                </div>
+                <div class="section-element" id="rank-elem-3">
+                    <div class="orient">
+                        <img class="icon" src="../images/null.png">
+                        <h5 class="extra-pad"> 
+                            Not Enough Information
+                        </h5>
+                    </div>
+                    <p class="content-section" id="rank-3">
+                        This icon represents a category which does not have enough information provided for an accurate
+                        answer to be formed. 
+                    </p>
+                </div>
+            </div>
+            <div id="category-content">
+                    <h3 id="extra-pad2">
+                        Categories explained
+                    </h3>
+                    <div class="section-element" id="des-elem-0">
+                        <div class="list-orient">
+                            <h5 class="content-header">
+                                Policy Changes
+                            </h5>
+                        </div>
+                            <p class="content-section" id="des-0">
+                                Does the service give users adequate notification prior to updating ToS/PP documents?
+                                <br>Good: Gives users email notification to ALL policy changes
+                                <br>Bad: Only notifies users to "significant" changes OR only posts notification to the service webpage
+                            </p>
+                    </div>
+                    <div class="section-element" id="des-elem-1">
+                        <div class="list-orient">
+                            <h5 class="content-header">
+                                Data security
+                            </h5>
+                        </div>
+                            <p class="content-section" id="des-1">
+                                What level of security does the service provider offer the user in regards to their PII? Do they guarantee this information is protected? Do they monitor their system regularly? Do they mantion any measures they take for ensuring protection?
+                                <br>Good: Encryption; Regular monitoring of systems that protect PII; "elaborate PII protection"
+                                <br>Average: Protect from unauthorised access (but no mention of any encryption)
+                                <br>Bad: nothing mentioned; no guaranteed PII protection; allows international transfer to countries with less strict data protection rules
+                            </p>
+                    </div>
+                    <div class="section-element" id="des-elem-2">
+                        <div class="list-orient">
+                            <h5 class="content-header">
+                                3rd Party Sharing
+                            </h5>
+                        </div>
+                            <p class="content-section" id="des-2">
+                                Does the service sell user information to third party trackers and/or allow them access to user tracking while on the service?
+                                <br>Yes: Allows 3rd parties to track users across the site AND/OR sells user information to 3rd parties
+                                <br>No: Anti-track; no tracking by third parties
+                            </p>
+                    </div>
+                    <div class="section-element" id="des-elem-3">
+                        <div class="list-orient">
+                            <h5 class="content-header">
+                                Privacy Settings
+                            </h5>
+                        </div>
+                            <p class="content-section" id="des-3">
+                                How easy is ti for users to manage their privacy settings?
+                                <br>Good: Easy user management of privacy settings; Clearly stated process for managing privacy
+                                <br>Average: Opt-out options for email offers, promotions, 3rd party trackers; DO NOT TRACK support
+                                <br>Bad: PII settings ambiguous; users advised to keep PII offline if they want to protect it; default sharing of PII
+                            </p>
+                    </div>
+                    <div class="section-element" id="des-elem-4">
+                        <div class="list-orient">
+                            <h5 class="content-header">
+                                User Control of Data
+                            </h5>
+                        </div>
+                            <p class="content-section" id="des-4">
+                                Ability to access, update, and delete PII
+                                <br>Good: user can contact service to change, update, or delete PII
+                                <br>Average: Request a copy of information; can update information
+                                <br>Bad: cannot access or update user info
+                            </p>
+                    </div>
+                    <div class="section-element" id="des-elem-5">
+                        <div class="list-orient">
+                            <h5 class="content-header">
+                                Account Deletion
+                            </h5>
+                        </div>
+                            <p class="content-section" id="des-5">
+                                Can the user delete their account? And if so, can they also delete all their information if they so wish?
+                                <br>Full: The user can delete their account AND delete their info
+                                <br>Partial: Delete account, but not all user info
+                                <br>None: Not mentioned; User cannot delete their account
+                            </p>
+                    </div>
+                     
+
+                </div>
+            </div>
+        <!-- load javascript: unique html page javascript file -->
+        <script type="text/javascript" src="../js/options.js"></script>
+    </body>
+</html>

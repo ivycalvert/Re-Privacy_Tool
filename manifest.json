@@ -1,0 +1,51 @@
+{
+
+    "name": "Re: Privacy",
+    "version": "1.0",
+    "manifest_version": 2,
+
+    "description": "Initial proof of concept of concept version. This extension ranks predefined categories found within privacy policy documents and presents this information back to the internet user through visualisations and shortened text extracts to help convey important information in a more accessible manner. This project aims to help increase user awareness and understanding of website privacy policy document content.",
+    "icons": {
+        "19": "images/icon_19.png",
+        "38": "images/icon_38.png",
+        "128": "images/icon_128.png"
+    },
+
+    "browser_action": {
+        "default_title": "Re: Privacy",
+        "default_icon": {
+            "19": "images/icon_19.png",
+            "38": "images/icon_38.png"
+        },
+        "default_popup": "html/main.html"
+    },
+    
+    "content_scripts": [
+        {
+            "matches": [
+                "<all_urls>"
+            ],
+            "run_at": "document_end",
+            "js": [
+                "js/content.js"
+            ]
+        }
+    ],
+
+    "background": {
+        "scripts": ["js/background-script.js"]
+    },
+
+
+    "options_page": "html/options.html",
+    "permissions": [
+        "background",
+        "tabs",
+        "http://*/*",
+        "https://*/*"
+    ],
+    
+    "web_accessible_resources": [
+        "data.json"
+    ]
+}

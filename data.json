@@ -1,0 +1,1181 @@
+{
+    "description": "Draft input data for the browser extension build along side the thesis",
+    "facebook": [
+        {
+            "category": "Policy Changes",
+            "rank": "good",
+            "sentence": "We'll notify you before we make changes to this policy and give you the opportunity to review and comment on the revised policy before continuing to use our Services."
+        }, {
+            "category": "Data Security",
+            "rank": "good",
+            "sentence": "We use the information we have to help verify accounts and activity, and to promote safety and security on and off of our Services, such as by investigating suspicious activity or violations of our terms or policies. We work hard to protect your account using teams of engineers, automated systems, and advanced technology such as encryption and machine learning. We also offer easy-to-use security tools that add an extra layer of security to your account."
+        }, {
+            "category": "3rd Party Sharing",
+            "rank": "yes",
+            "sentence": "We transfer information to vendors, service providers, and other partners who globally support our business, such as providing technical infrastructure services, analyzing how our Services are used, measuring the effectiveness of ads and services, providing customer service, facilitating payments, or conducting academic research and surveys."
+        }, {
+            "category": "Privacy Settings",
+            "rank": "n/a",
+            "sentence": "n/a"
+        }, {
+            "category": "User Data Control",
+            "rank": "average",
+            "sentence": "You can manage the content and information you share when you use Facebook through the Activity Log tool. You can also download information associated with your Facebook account through our Download Your Information tool."
+        }, {
+            "category": "Account Deletion",
+            "rank": "partial",
+            "sentence": "You can delete your account any time. When you delete your account, we delete things you have posted, such as your photos and status updates."
+        }, {
+            "category": "Data Collection",
+            "rank": "full",
+            "sentence": "This includes your payment information, such as your credit or debit card number and other card information, and other account and authentication information, as well as billing, shipping and contact details."
+        }
+    ],
+    "google": [
+        {
+            "category": "Policy Changes",
+            "rank": "average",
+            "sentence": "We will post any privacy policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of privacy policy changes). We will also keep prior versions of this Privacy Policy in an archive for your review."
+        }, {
+            "category": "Data Security",
+            "rank": "good",
+            "sentence": "Information security We work hard to protect Google and our users from unauthorized access to or unauthorized alteration, disclosure or destruction of information we hold. In particular: We encrypt many of our services using SSL. We offer you two step verification when you access your Google Account, and a Safe Browsing feature in Google Chrome. We review our information collection, storage and processing practices, including physical security measures, to guard against unauthorized access to systems. We restrict access to personal information to Google employees, contractors and agents who need to know that information in order to process it for us, and who are subject to strict contractual confidentiality obligations and may be disciplined or terminated if they fail to meet these obligations."
+        }, {
+            "category": "3rd Party Sharing",
+            "rank": "yes",
+            "sentence": " unless one of the following circumstances applies: With your consent We will share personal information with companies, organizations or individuals outside of Google when we have your consent to do so. We require opt-in consent for the sharing of any sensitive personal information. With domain administrators If your Google Account is managed for you by a domain administrator (for example, for G Suite users) then your domain administrator and resellers who provide user support to your organization will have access to your Google Account information (including your email and other data). Your domain administrator may be able to: view statistics regarding your account, like statistics regarding applications you install. change your account password. suspend or terminate your account access. access or retain information stored as part of your account. receive your account information in order to satisfy applicable law, regulation, legal process or enforceable governmental request. restrict your ability to delete or edit information or privacy settings. Please refer to your domain administrator’s privacy policy for more information. For external processing We provide personal information to our affiliates or other trusted businesses or persons to process it for us, based on our instructions and in compliance with our Privacy Policy and any other appropriate confidentiality and security measures. For legal reasons We will share personal information with companies, organizations or individuals outside of Google if we have a goodfaith belief that access, use, preservation or disclosure of the information is reasonably necessary to: meet any applicable law, regulation, legal process or enforceable governmental request. enforce applicable Terms of Service, including investigation of potential violations. detect, prevent, or otherwise address fraud, security or technical issues. protect against harm to the rights, property or safety of Google, our users or the public as required or permitted by law. We may share non-personally identifiable information publicly and with our partners – like publishers, advertisers or connected sites. For example, we may share information publicly to show trends about the general use of our services. If Google is involved in a merger, acquisition or asset sale, we will continue to ensure the confidentiality of any personal information and give affected users notice before personal information is transferred or becomes subject to a different privacy policy."
+        }, {
+            "category": "Privacy Settings",
+            "rank": "average",
+            "sentence": "Information you share Many of our services let you share information with others. Remember that when you share information publicly, it may be indexable by search engines, including Google. Our services provide you with different options on sharing and removing your content."
+        }, {
+            "category": "User Data Control",
+            "rank": "average",
+            "sentence": "Accessing and updating your personal information Whenever you use our services, we aim to provide you with access to your personal information. If that information is wrong, we strive to give you ways to update it quickly or to delete it – unless we have to keep that information for legitimate business or legal purposes. When updating your personal information, we may ask you to verify your identity before we can act on your request. We may reject requests that are unreasonably repetitive, require disproportionate technical effort (for example, developing a new system or fundamentally changing an existing practice), risk the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup systems). Where we can provide information access and correction, we will do so for free, except where it would require a disproportionate effort."
+        }, {
+            "category": "Account Deletion",
+            "rank": "partial",
+            "sentence": "\"removing your content\" For example, you can delete your Web & App Activity, your blog, a Google Site you own, your YouTube Channel, your Google+ profile or your entire Google account."
+        }, {
+            "category": "Data Collection",
+            "rank": "full",
+            "sentence": "Our automated systems analyze your content (including emails) to provide you personally relevant product features, such as customized search results, tailored advertising, and spam and malware detection."
+        }
+    ],
+    "asos": [
+        {
+            "category": "Policy Changes",
+            "rank": "average",
+            "sentence": "We may change this Privacy Policy from time to time. If we make significant changes in the way we treat your personal information, or to the Privacy Policy, we will make that clear on the ASOS website or Services, or by some other means such as email, so that you are able to review the changes before you continue to use ASOS."
+        }, {
+            "category": "Data Security",
+            "rank": "average",
+            "sentence": "To protect any data you store on our servers, we regularly monitor our system for possible vulnerabilities and attacks, as well as carrying out penetration testing of our own on those systems to try to identify possible improvements"
+        }, {
+            "category": "3rd Party Sharing",
+            "rank": "no",
+            "sentence": "We share your information externally with other partners when we have your consent to do so: ASOS works with a number of other partners who, whilst not essential for our business to operate, do enhance your experience with ASOS and your usage of the Services, in our opinion."
+        }, {
+            "category": "Privacy Settings",
+            "rank": "average",
+            "sentence": "You can opt-out of receiving marketing communications from us at any time.This can be done through your account settings, by clicking on the \"unsubscribe\" link in any email communications which we might send you, or by contacting our Customer Care team."
+        }, {
+            "category": "User Data Control",
+            "rank": "good",
+            "sentence": "At any time, you can request a copy of the personal data we hold on our systems about you.  If you wish to do so, please contact our Customer Care team who will be able to assist you with your query"
+        }, {
+            "category": "Account Deletion",
+            "rank": "partial",
+            "sentence": "However, we may retain archived copies of your information as required by law or for legitimate business purposes (including to help address fraud and spam).  Please note though that, if you have shared any information with others through the ASOS Social Media channels for example, that information may remain visible, even after you have closed your account."
+        }, {
+            "category": "Data Collection",
+            "rank": "partial",
+            "sentence": "input certain details relating to your credit card, or log-in details for certain other payment systems, such as PayPal or Klarna"
+        }
+    ],
+    "amazon": [
+        {
+            "category": "Policy Changes",
+            "rank": "good",
+            "sentence": "Our business changes constantly and our Privacy Notice and the Conditions of Use & Sale will change also. We may e-mail periodic reminders of our notices and conditions, unless you have instructed us not to, but you should check our website frequently to see recent changes."
+        }, {
+            "category": "Data Security",
+            "rank": "good",
+            "sentence": "We maintain physical, electronic and procedural safeguards in connection with the collection, storage and disclosure of personally identifiable customer information."
+        }, {
+            "category": "3rd Party Sharing",
+            "rank": "yes",
+            "sentence": "we are not in the business of selling it to others ...shares customer information only….with Amazon.com, Inc. and the subsidiaries which Amazon.com Inc., controls….Have a look on the subsidiaries and the companies Amazon controls. We employ other companies and individuals to perform functions on our behalf.Examples include fulfilling orders, delivering packages, sending postal mail and e-mail, removing repetitive information from customer lists, analysing data, providing marketing assistance, providing search results and links (including paid listings and links), processing credit card payments and providing customer service. They have access to personal information needed to perform their functions, but may not use it for other purposes. Further, they must process the personal information in accordance with this Privacy Notice and as permitted by applicable data protection laws."
+        }, {
+            "category": "Privacy Settings",
+            "rank": "bad",
+            "sentence": "As discussed above, you can always choose not to provide information, even though it might be needed to make a purchase or to take advantage of such Amazon.co.uk features as Your Profile, Wish Lists, Customer Reviews and Amazon Prime."
+        }, {
+            "category": "User Data Control",
+            "rank": "average",
+            "sentence": "Examples of information you can access easily at Amazon.co.uk include: up-to-date information regarding recent orders"
+        }, {
+            "category": "Account Deletion",
+            "rank": "n/a",
+            "sentence": "n/a"
+        }, {
+            "category": "Data Collection",
+            "rank": "full",
+            "sentence": "we receive and store any information you enter on our website or give us in any other way. we receive and store certain types of information whenever you interact with us. we may receive information about your location and your mobile device, including a unique identifier for your device. we might receive information about you from other sources and add it to our account information. "
+        }
+    ],
+    "github": [
+        {
+            "category": "Policy Changes",
+            "rank": "average",
+            "sentence": "We will provide notification to Users of material changes to this Privacy Statement through our Website at least 30 days prior to the change taking effect by posting a notice on our home page"
+        }, {
+            "category": "Data Security",
+            "rank": "average",
+            "sentence": "GitHub takes all measures reasonably necessary to protect User Personal Information from unauthorized access, alteration, or destruction; maintain data accuracy; and help ensure the appropriate use of User Personal Information. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it."
+        }, {
+            "category": "3rd Party Sharing",
+            "rank": "yes",
+            "sentence": "We do not disclose User Personal Information outside GitHub, except in the situations listed in this section or in the section below on Compelled Disclosure."
+        }, {
+            "category": "Privacy Settings",
+            "rank": "bad",
+            "sentence": "If you do not want your Personal Information to appear in third parties’ compilations of GitHub data, please do not make your Personal Information publicly available and be sure to configure your email address to be private in your user profile."
+        }, {
+            "category": "User Data Control",
+            "rank": "good",
+            "sentence": "If you're already a GitHub user, you may access, update, alter, or delete your basic user profile information by editing your user profile or contacting GitHub Support."
+        }, {
+            "category": "Account Deletion",
+            "rank": "partial",
+            "sentence": "If you would like to cancel your account or delete your User Personal Information, you may do so in your user profile. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements, but barring legal requirements, we will delete your full profile (within reason) within 30 days."
+        }, {
+            "category": "Data Collection",
+            "rank": "full",
+            "sentence": "\"User Personal Information\" is any information about one of our users which could, alone or together with other information, personally identify him or her. Information such as a user name and password, an email address, a real name, and a photograph are examples of \"User Personal Information.\""
+        }
+    ],
+    "sky": [
+        {
+            "category": "Policy Changes",
+            "rank": "bad",
+            "sentence": "We will occasionally update this privacy notice."
+        }, {
+            "category": "Data Security",
+            "rank": "average",
+            "sentence": "In all instances, we will take into account the nature of the information we are transferring, and the level of protection provided by those processors."
+        }, {
+            "category": "3rd Party Sharing",
+            "rank": "yes",
+            "sentence": "We may share information with credit reference, fraud prevention agencies, entities in which we hold a share of the ownership and other companies for use in credit decisions, for fraud detection and debt recovery purposes."
+        }, {
+            "category": "Privacy Settings",
+            "rank": "average",
+            "sentence": "If you wish to adjust what information we use or how we use it, you can do so via your My Sky account or by contacting us."
+        }, {
+            "category": "User Data Control",
+            "rank": "n/a",
+            "sentence": "n/a"
+        }, {
+            "category": "Account Deletion",
+            "rank": "n/a",
+            "sentence": "n/a"
+        }, {
+            "category": "Data Collection",
+            "rank": "partial",
+            "sentence": "Information you've provided to us, including on our websites or when you access our services through applications on websites operated by other organisations."
+        }
+    ],
+    "theguardian": [
+        {
+            "category": "Policy Changes",
+            "rank": "average",
+            "sentence": "Should we elect to change our privacy policy we will post the changes here. Where the changes are significant, we may also choose to email all our registered users with the new details."
+        }, {
+            "category": "Data Security",
+            "rank": "average",
+            "sentence": "We do our very best to protect your privacy by using security technology appropriately. This means: we make sure that we have appropriate security measures to protect your information; and we make sure that when we ask another organisation to provide a service for us, they have appropriate security measures."
+        }, {
+            "category": "3rd Party Sharing",
+            "rank": "yes",
+            "sentence": "We can access and release personal information to keep to relevant laws and government requests, to operate our systems properly and to protect both us and our users"
+        }, {
+            "category": "Privacy Settings",
+            "rank": "average",
+            "sentence": "You should receive marketing emails only from us and, if you agree, from other organisations we have carefully chosen"
+        }, {
+            "category": "User Data Control",
+            "rank": "average",
+            "sentence": "We offer a ‘My details’ page (also known as Dashboard), where you can update your personal information at any time, and change your marketing preferences. You can get to this page from most pages on the site – simply click on the ‘My details’ link at the top of the screen when you are signed in."
+        }, {
+            "category": "Account Deletion",
+            "rank": "n/a",
+            "sentence": "n/a"
+        }, {
+            "category": "Data Collection",
+            "rank": "partial",
+            "sentence": "We use Google Analytics on our sites for anonymous reporting of site usage and for advertising on the site. If you would like to opt-out of Google Analytics monitoring your behaviour on our sites please use this link"
+        }
+    ],
+    "tripadvisor": [
+        {
+            "category": "Policy Changes",
+            "rank": "good",
+            "sentence": "TripAdvisor may change or modify this Privacy Policy in the future. We will note the date that revisions were last made to this Privacy Policy at the bottom of this page, and any revisions will take effect upon posting. We will notify our members of material changes to this Privacy Policy by either sending a notice to the email address you provided to us or by placing a notice on our Website. We encourage you to check this Privacy Policy from time to time to review the most current version."
+        }, {
+            "category": "Data Security",
+            "rank": "good",
+            "sentence": "We want you to feel confident about using TripAdvisor, and we are committed to protecting the information we collect. While no website can guarantee security, we have implemented and maintain appropriate physical, administrative, technical, and organisational measures to protect the personal information you provide us against unauthorized or unlawful access, use of disclosure, and against accidental loss, damage, alteration or destruction. For example, only authorized employees are permitted to access personal information, and they only may do so for permitted business functions. In addition, we use encryption when transmitting your personal information between your system and ours, and between our system and those of the parties with whom we share sensitive information, and we employ firewalls and intrusion detection systems to help prevent unauthorized persons from gaining access to your information."
+        }, {
+            "category": "3rd Party Sharing",
+            "rank": "yes",
+            "sentence": "We also may periodically obtain information about you from affiliated entities, business partners and other independent third-party sources and add it to other information about you. By using our services, you understand that your information may be transferred to our facilities and those third parties with whom we share it as described in this Privacy Policy."
+        }, {
+            "category": "Privacy Settings",
+            "rank": "average",
+            "sentence": "We want to make it easy for you to take advantage of travel-related opportunities on our Website. One way we do this is by sending you email messages that contain information about your travel-related interests in accordance with your marketing preferences. For example, if your marketing preference is to receive email marketing messages, then if you search for a flight to New York on our website, we may send you an email message about airfares and travel to New York or other destinations. We believe these email messages will provide you with useful information about travel-related special offers available through our sites. Please note that you will have the opportunity to choose not to receive these email messages in any such email we send."
+        }, {
+            "category": "User Data Control",
+            "rank": "good",
+            "sentence": " You can also review, add or update the information you have provided to us by visiting your subscriptions page on our Website. You also can add or update information and close your account as described above. If you decide to close your TripAdvisor account, we will deactivate your account and remove your profile information from active view. You can close your TripAdvisor account by contacting us using this form. We will send you an email to confirm your request. Please note that after you close an account, you will not be able to sign in or access any of your personal information. However, you can open a new account at any time."
+        }, {
+            "category": "Account Deletion",
+            "rank": "full",
+            "sentence": "You can close your TripAdvisor account by contacting us using this form. We will send you an email to confirm your request. Please note that after you close an account, you will not be able to sign in or access any of your personal information. However, you can open a new account at any time."
+        }, {
+            "category": "Data Collection",
+            "rank": "full",
+            "sentence": "We receive and store any information you enter on our Website or give us in any other way. This includes information that can be used to identify you as an individual or to contact you directly (\"personal information\"). Personal information includes information you provide us such as your first and last name, telephone number, postal and email addresses, user name and password, and billing information (such as your credit card number, cardholder name, and card expiration date)."
+        }
+    ],
+    "twitch": [
+        {
+            "category": "Policy Changes",
+            "rank": "average",
+            "sentence": "Twitch reserves the right to change, modify, add, or remove portions of this Privacy Policy at any time (for example to reflect updates to the Twitch Service or to reflect changes in the law). If Twitch changes this Privacy Policy, we will provide you notice of these changes, such as by sending an email, posting a notice on the Twitch Service, or updating the \"Last Updated\" date above."
+        }, {
+            "category": "Data Security",
+            "rank": "bad",
+            "sentence": "We cannot guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards."
+        }, {
+            "category": "3rd Party Sharing",
+            "rank": "yes",
+            "sentence": "This Privacy Policy does not apply to, and we cannot control the tracking technologies and activities of, those other advertisers, third-party advertising networks, or third-party advertising servers. "
+        }, {
+            "category": "Privacy Settings",
+            "rank": "average",
+            "sentence": "We are committed to providing you with meaningful choices about the information collected on our website for third party purposes, and that is why we provide the Network Advertising Initiative and the Digital Advertising Alliance opt-out links above."
+        }, {
+            "category": "User Data Control",
+            "rank": "good",
+            "sentence": "With other services, you may update or delete information tied to your account by accessing the “My Account” area of the service or by submitting a help ticket to that service."
+        }, {
+            "category": "Account Deletion",
+            "rank": "partial",
+            "sentence": "If you would like to close your account and delete your profile information on www.twitch.tv go to http://www.twitch.tv/user/delete_account. "
+        }, {
+            "category": "Data Collection",
+            "rank": "full",
+            "sentence": " You may provide a variety of information about yourself to us, such as your name, email address, postal mailing address, telephone number, credit card number, and billing information when you register for a Twitch Service"
+        }
+    ],
+    "twitter": [
+        {
+            "category": "Policy Changes",
+            "rank": "average",
+            "sentence": "If we make a change to this policy that, in our sole discretion, is material, we will notify you via an @Twitter update or email to the email address associated with your account."
+        }, {
+            "category": "Data Security",
+            "rank": "n/a",
+            "sentence": "n/a"
+        }, {
+            "category": "3rd Party Sharing",
+            "rank": "yes",
+            "sentence": "We may share your private personal information with such service providers subject to obligations consistent with this Privacy Policy and any other appropriate confidentiality and security measures, and on the condition that the third parties use your private personal data only on our behalf and pursuant to our instructions."
+        }, {
+            "category": "Privacy Settings",
+            "rank": "average",
+            "sentence": "You may also unsubscribe from a notification by following the instructions contained within the notification or the instructions on our website. "
+        }, {
+            "category": "User Data Control",
+            "rank": "good",
+            "sentence": "If you are a registered user of our Services, we provide you with tools and account settings to access, correct, delete, or modify the personal information you provided to us and associated with your account. "
+        }, {
+            "category": "Account Deletion",
+            "rank": "full",
+            "sentence": "You can also permanently delete your Twitter account. When deactivated, your account, including your name, username, and public profile, is not viewable on Twitter.com. For up to 30 days after deactivation it is still possible to restore your account if it was accidentally or wrongfully deactivated. Absent a separate arrangement between you and us to extend your deactivation period, after 30 days, we begin the process of deleting your account from our systems, which can take up to a week."
+        }, {
+            "category": "Data Collection",
+            "rank": "full",
+            "sentence": "This Log Data may include your IP address, browser type, operating system, the referring web page, pages visited, location, your mobile carrier, device information (including device and application IDs), search terms, or cookie information."
+        }
+    ],
+    "whatsapp": [
+        {
+            "category": "Policy Changes",
+            "rank": "average",
+            "sentence": "We may amend or update our Privacy Policy. We will provide you notice of amendments to this Privacy Policy, as appropriate, and update the “Last Modified” date at the top of this Privacy Policy. Your continued use of our Services confirms your acceptance of our Privacy Policy, as amended. If you do not agree to our Privacy Policy, as amended, you must stop using our Services. Please review our Privacy Policy from time to time."
+        }, {
+            "category": "Data Security",
+            "rank": "good",
+            "sentence": "We also offer end-to-end encryption for our Services, which is on by default, when you and the people with whom you message use a version of our app released after April 2, 2016."
+        }, {
+            "category": "3rd Party Sharing",
+            "rank": "yes",
+            "sentence": "Please note that when you use third-party services, their own terms and privacy policies will govern your use of those services."
+        }, {
+            "category": "Privacy Settings",
+            "rank": "average",
+            "sentence": "You can use your Services settings and the block feature in our Services to manage the users of our Services with whom you communicate and certain information you share."
+        }, {
+            "category": "User Data Control",
+            "rank": "average",
+            "sentence": "You can change your Services settings to manage certain information available to other users. You can manage your contacts, groups, and broadcast lists, or use our block feature to manage the users with whom you communicate."
+        }, {
+            "category": "Account Deletion",
+            "rank": "partial",
+            "sentence": "Be mindful that if you only delete our Services from your device without using our in-app delete my account feature, your information may be stored with us for a longer period. Please remember that when you delete your account, it does not affect the information other users have relating to you, such as their copy of the messages you sent them."
+        }, {
+            "category": "Data Collection",
+            "rank": "partial",
+            "sentence": "Your phone number, profile name and photo, online status and status message, last seen status, and receipts may be available to anyone who uses our Services, although you can configure your Services settings to manage certain information available to other users."
+        }
+    ],
+    "wikimedia": [
+        {
+            "category": "Policy Changes",
+            "rank": "bad",
+            "sentence": "In the event of substantial changes, we will provide the proposed changes to our users in at least three (3) languages (selected at our discretion) for open comment period lasting at least thirty (30) calendar days."
+        }, {
+            "category": "Data Security",
+            "rank": "bad",
+            "sentence": "You also consent to the transfer of your information by us from the U.S. to other countries, which may have different or less stringent data protection laws than your country, in connection with providing services to you."
+        }, {
+            "category": "3rd Party Sharing",
+            "rank": "yes",
+            "sentence": "To facilitate their work, we may give some developers limited access to systems that contain your personal information, but only as reasonably necessary for them to develop and contribute to the Wikimedia Sites."
+        }, {
+            "category": "Privacy Settings",
+            "rank": "average",
+            "sentence": "We may share your information for a particular purpose, if you agree."
+        }, {
+            "category": "User Data Control",
+            "rank": "n/a",
+            "sentence": "n/a"
+        }, {
+            "category": "Account Deletion",
+            "rank": "n/a",
+            "sentence": "n/a"
+        }, {
+            "category": "Data Collection",
+            "rank": "partial",
+            "sentence": "And if you edit without registering or logging into your account, your IP address will be seen publicly."
+        }
+    ],
+    "imgur": [
+        {
+            "category": "Policy Changes",
+            "rank": "n/a",
+            "sentence": "n/a"
+        }, {
+            "category": "Data Security",
+            "rank": "average",
+            "sentence": "We take every reasonable precaution to protect your private data from loss, misuse, unauthorized access, disclosure, alteration, or destruction."
+        }, {
+            "category": "3rd Party Sharing",
+            "rank": "yes",
+            "sentence": "We use third-party advertising companies to serve ads when you visit our website or use our apps. These companies may use information about your visits to this and other web sites in order to provide advertisements about goods and services of interest to you."
+        }, {
+            "category": "Privacy Settings",
+            "rank": "average",
+            "sentence": "Every image uploaded to Imgur – whether uploaded directly without going through a user account, or uploaded via a user account – has its own URL, and no matter what your privacy settings are, every image can always be accessed and viewed by anyone who types in that exact URL. No image uploaded to Imgur is ever completely hidden from public view."
+        }, {
+            "category": "User Data Control",
+            "rank": "good",
+            "sentence": "You may correct, amend, or delete inaccurate private data (if any) you have given us, although any credit card transactions that have already taken place will be unaffected"
+        }, {
+            "category": "Account Deletion",
+            "rank": "full",
+            "sentence": "You may correct, amend, or delete inaccurate private data (if any) you have given us, although any credit card transactions that have already taken place will be unaffected"
+        }, {
+            "category": "Data Collection",
+            "rank": "none",
+            "sentence": " If you use a credit card to make an on-site or in-app purchase, in which case your private data is forwarded to credit card processors only for that purpose (including guarding against credit card fraud) and not stored on our servers."
+        }
+    ],
+    "cnn": [
+        {
+            "category": "Policy Changes",
+            "rank": "good",
+            "sentence": "From time to time, we may update this Privacy Policy. We will notify you about material changes by either sending an email message to the email address you most recently provided to us or by prominently posting a notice on our Service."
+        }, {
+            "category": "Data Security",
+            "rank": "good",
+            "sentence": "We have put in place physical, electronic, and managerial procedures designed to help prevent unauthorized access, to maintain data security, and to use correctly the Information we collect online. These safeguards vary based on the sensitivity of the Information that we collect and store."
+        }, {
+            "category": "3rd Party Sharing",
+            "rank": "yes",
+            "sentence": "Our unaffiliated Partners and third parties may themselves set and access their own tracking technologies when you visit our Services and they may have access to information about you and your online activities over time and across different websites or applications when you use the Service. Their use of such tracking technologies is not in our control and is subject to their own privacy policies."
+        }, {
+            "category": "Privacy Settings",
+            "rank": "average",
+            "sentence": "We may work with certain third-party companies that use techniques other than HTTP cookies to recognize your computer or device and/or to collect and record information about your web surfing activity, including those integrated with our Services. Please keep in mind that your web browser may not permit you to block the use of these techniques, and those browser settings that block conventional cookies may have no effect on such techniques."
+        }, {
+            "category": "User Data Control",
+            "rank": "average",
+            "sentence": "You may also send an e-mail or letter to the following e-mail or street address requesting access to or correction of your personal Information. Please include your registration information for such service such as first name, last name and e-mail address in the request. We may ask you to provide additional information for identity verification purposes, or to verify that you are in possession of an applicable email account."
+        }, {
+            "category": "Account Deletion",
+            "rank": "n/a",
+            "sentence": "n/a"
+        }, {
+            "category": "Data Collection",
+            "rank": "partial",
+            "sentence": "we may use cookies to personalize your experience at our Services (e.g., to recognize you by name when you return to a Service), save your password in password-protected areas"
+        }
+    ],
+    "ladbible": [
+        {
+            "category": "Policy Changes",
+            "rank": "bad",
+            "sentence": "We may revise and update this Cookies Policy at any time. Please periodically review the Cookies Policy, as your continued use of our sites indicates your agreement with any changes that we make."
+        }, {
+            "category": "Data Security",
+            "rank": "good",
+            "sentence": "We will implement reasonable physical, administrative and technical safeguards to help protect your personal information from unauthorised access, use and disclosure, including requiring any third party to whom we disclose your personal information to implement similar safeguards."
+        }, {
+            "category": "3rd Party Sharing",
+            "rank": "yes",
+            "sentence": "6.2 You agree that we may share your personal information with third parties:"
+        }, {
+            "category": "Privacy Settings",
+            "rank": "bad",
+            "sentence": "5.3 If you do not want us to use your information as described at condition 4.1.2 above, or to pass your details on to third parties for marketing purposes, please make the appropriate selection on the form on which we collect your information (the registration form) or notify us in accordance with condition 6.1 below."
+        }, {
+            "category": "User Data Control",
+            "rank": "average",
+            "sentence": "8.1 The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10.00 to meet our costs in providing you with details of the information we hold about you. We will respond to any access request as soon as reasonably practicable following receipt of payments by cash or cheque made payable to by The LADbible Group Limited."
+        }, {
+            "category": "Account Deletion",
+            "rank": "n/a",
+            "sentence": "n/a"
+        }, {
+            "category": "Data Collection",
+            "rank": "partial",
+            "sentence": "During your use of our sites we will collect personal information about you."
+        }
+    ],
+    "netflix": [
+        {
+            "category": "Policy Changes",
+            "rank": "n/a",
+            "sentence": "n/a"
+        }, {
+            "category": "Data Security",
+            "rank": "average",
+            "sentence": "We use reasonable administrative, logical, physical and managerial measures to safeguard your personal information against loss, theft and unauthorized access, use and modification. Unfortunately, no measures can be guaranteed to provide 100% security. Accordingly, we cannot guarantee the security of your information."
+        }, {
+            "category": "3rd Party Sharing",
+            "rank": "yes",
+            "sentence": "Service Providers: We use other companies, agents or contractors (\"Service Providers\") to perform services on our behalf or to assist us with the provision of services to you. For example, we engage Service Providers to provide marketing, advertising, communications, infrastructure and IT services, to personalize and optimize our service, to process credit card transactions or other payment methods, to provide customer service, to collect debts, to analyze and enhance data (including data about users' interactions with our service), and to process and administer consumer surveys. In the course of providing such services, these Service Providers may have access to your personal or other information. We do not authorize them to use or disclose your personal information except in connection with providing their services."
+        }, {
+            "category": "Privacy Settings",
+            "rank": "good",
+            "sentence": "If you no longer want to receive certain communications from us via email or text message, simply access the email and text messages settings page in the \"Your Account\" section of our website and uncheck those items to unsubscribe. Alternatively, click the \"unsubscribe\" link in the email or reply STOP (or as otherwise instructed) to the text message. Please note that you cannot unsubscribe from certain email correspondence from us, such as messages relating to your account transactions. You can opt in to receive mobile push notifications from Netflix. If you subsequently decide you no longer wish to receive these notifications, you can use your mobile device’s settings functionality to turn them off. To exercise choices regarding cookies set through our website, as well as other types of online tracking and Internet advertising, see the Cookies and Internet Advertising section (below)."
+        }, {
+            "category": "User Data Control",
+            "rank": "good",
+            "sentence": "You can request access to your personal information, or correct or update out-of-date or inaccurate personal information we hold about you."
+        }, {
+            "category": "Account Deletion",
+            "rank": "n/a",
+            "sentence": "n/a"
+        }, {
+            "category": "Data Collection",
+            "rank": "full",
+            "sentence": "Information from other sources: We might supplement the information described above with information we obtain from other sources, including from both online and offline data providers. Such supplemental information could include demographic data, interest based data, and Internet browsing behavior."
+        }
+    ],
+    "stackexchange": [
+        {
+            "category": "Policy Changes",
+            "rank": "average",
+            "sentence": "Although most changes are likely to be minor, we may occasionally need to change this Policy. If we do update it, we’ll notify you either by posting the new policy on the network or by emailing you the changes or a link to the modified document. (See the “Choice” section below for information about how we’ll notify you if we change our policy regarding sensitive information.) In any case, the way we use information you provide will be covered by the privacy policy that was in effect at the time it was collected."
+        }, {
+            "category": "Data Security",
+            "rank": "good",
+            "sentence": "Onward Transfer – Prior to providing agents with any personal information, we will obtain assurances that they will safeguard it in accordance with this policy. Examples of assurances that may be provided include: A commitment that they will handle in the information in accordance with this policy, or will provide the same level of protection, as required by the Privacy Shield IP/16/216; Privacy Shield certification by the agent, or being subject to another European Commission adequacy finding."
+        }, {
+            "category": "3rd Party Sharing",
+            "rank": "yes",
+            "sentence": "Other than on Jobs, we won’t share your personal information with non-agent third parties unless we are required to do so by law, or if we believe in good faith that disclosure is reasonably necessary to protect our property, rights or those of third parties or the public at large. It is possible that we may, on occasion, buy or sell assets from or to other companies. If that should occur, user information is typically one of the assets that get transferred. Similarly, if Stack Exchange or most of its assets were acquired, or in the unlikely event that we go out of business or enter bankruptcy, user information could be transferred or acquired. You should be aware that such events can occur, and that if it does, the buyer may continue to use your personal and non-personal information, but only as set forth in this policy. Other than in these rare circumstances, Stack Exchange will not rent or sell potentially personally identifying information to anyone. "
+        }, {
+            "category": "Privacy Settings",
+            "rank": "good",
+            "sentence": "Enforcement – We will conduct internal audits of our compliance with this privacy policy, including an annual self-assessment. Our employees take your privacy as seriously as we do, and we will take all reasonable measures against any employee found to be in violation of this policy. "
+        }, {
+            "category": "User Data Control",
+            "rank": "good",
+            "sentence": "Access – Upon request, we will provide you with reasonable access to the personal information we collect about you. You will have the opportunity to correct, update, modify or delete this information by sending an e-mail to team@stackexchange.com. Please note that some information may remain in our records even after you request deletion of your information as permitted by the Privacy Shield Principles. Additionally, there may be limits to the amount of information we can practically provide. For example, we may limit an individual’s access to personal information where the burden or expense of providing access would be disproportionate to the risks to the individual’s privacy or where doing so would violate others’ rights."
+        }, {
+            "category": "Account Deletion",
+            "rank": "n/a",
+            "sentence": "n/a"
+        }, {
+            "category": "Data Collection",
+            "rank": "partial",
+            "sentence": "Users who post profiles on our Jobs site are generally doing so for the express purpose of getting connected with potential employers. So, if you post a profile on our Jobs site, and choose to make your profile visible to employers, your name (which is required) and most of the other (optional) information in your profile will be visible to employers searching for candidates. That said, your contact information (email, phone, and address) will not be provided to employers in their candidate searches. We will only allow employers to have access to your contact information in two cases, both of which are under your control: If you apply directly for a specific job, you will be asked to provide your name and email address (and other optional information) to the employer. If an employer finds you through a search and wants to contact you, we will ask if you are interested in hearing from them, and if you are, we will then provide them with your contact information. Users who post profiles on our Jobs site are generally doing so for the express purpose of getting connected with potential employers. So, if you post a profile on our Jobs site, and choose to make your profile visible to employers, your name (which is required) and most of the other (optional) information in your profile will be visible to employers searching for candidates. That said, your contact information (email, phone, and address) will not be provided to employers in their candidate searches. We will only allow employers to have access to your contact information in two cases, both of which are under your control: If you apply directly for a specific job, you will be asked to provide your name and email address (and other optional information) to the employer. If an employer finds you through a search and wants to contact you, we will ask if you are interested in hearing from them, and if you are, we will then provide them with your contact information. Users who post profiles on our Jobs site are generally doing so for the express purpose of getting connected with potential employers. So, if you post a profile on our Jobs site, and choose to make your profile visible to employers, your name (which is required) and most of the other (optional) information in your profile will be visible to employers searching for candidates. That said, your contact information (email, phone, and address) will not be provided to employers in their candidate searches. We will only allow employers to have access to your contact information in two cases, both of which are under your control: If you apply directly for a specific job, you will be asked to provide your name and email address (and other optional information) to the employer. If an employer finds you through a search and wants to contact you, we will ask if you are interested in hearing from them, and if you are, we will then provide them with your contact information. Users who post profiles on our Jobs site are generally doing so for the express purpose of getting connected with potential employers. So, if you post a profile on our Jobs site, and choose to make your profile visible to employers, your name (which is required) and most of the other (optional) information in your profile will be visible to employers searching for candidates. That said, your contact information (email, phone, and address) will not be provided to employers in their candidate searches. We will only allow employers to have access to your contact information in two cases, both of which are under your control: If you apply directly for a specific job, you will be asked to provide your name and email address (and other optional information) to the employer. If an employer finds you through a search and wants to contact you, we will ask if you are interested in hearing from them, and if you are, we will then provide them with your contact information."        
+        }
+    ],
+    "independent": [
+        {
+            "category": "Policy Changes",
+            "rank": "bad",
+            "sentence": "may revise this privacy policy at any time by posting an update on its Website.  Please ensure that you check this Website from time to time to review the current privacy policy against any preferences you may have indicated.  This privacy policy was last updated on the date shown above."
+        }, {
+            "category": "Data Security",
+            "rank": "good",
+            "sentence": "Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access."
+        }, {
+            "category": "3rd Party Sharing",
+            "rank": "yes",
+            "sentence": "We may also use such aggregate information to help advertisers reach the kind of audience they want to target"
+        }, {
+            "category": "Privacy Settings",
+            "rank": "bad",
+            "sentence": "We may check our registered viewer database against the information they hold on their systems to see if there are any matched individuals. If there is a match, we can collect and store some of this additional information (which may include statements about your lifestyle and interests) in our database and use it to further enhance our understanding of the types of products and services you might be interested in."
+        }, {
+            "category": "User Data Control",
+            "rank": "average",
+            "sentence": "You can update some of your personal information by signing in to your account page or through your social network provider."
+        }, {
+            "category": "Account Deletion",
+            "rank": "n/a",
+            "sentence": "n/a"
+        }, {
+            "category": "Data Collection",
+            "rank": "full",
+            "sentence": "We also collect information from social media activity such as when you ‘like’ the Website, share content or follow us on Twitter.  When you sign in to the Website using social media you grant permission to the social network to share your user details. Depending on the network this will include basic account information such as name, email address, date of birth and any other details you choose to share according to your particular social media account settings."
+        }
+    ],
+    "united": [
+        {
+            "category": "Policy Changes",
+            "rank": "bad",
+            "sentence": "Also, United, in its discretion, may amend, interpret, modify or withdraw any portion of this Privacy Policy and related business practices at any time by posting updated text on this site, and your continued use of our digital channels or offline outlets constitutes your consent to those changes."
+        }, {
+            "category": "Data Security",
+            "rank": "good",
+            "sentence": "maintains physical, electronic and procedural safeguards to protect your information. When you place orders online to purchase services or access your MileagePlus account information, we use secure servers to protect your personal information, which is intended to encrypt the personal information that is transmitted between you and our sites."
+        }, {
+            "category": "3rd Party Sharing",
+            "rank": "yes",
+            "sentence": ". If we jointly offer a product or service with a different entity, we will share your information with that entity to assist in marketing and providing that product or service. These entities may include, but are not limited to: airlines, car rental agencies, hotels and travel agencies. We may also share your information with our partners for their own marketing purposes."
+        }, {
+            "category": "Privacy Settings",
+            "rank": "good",
+            "sentence": "MileagePlus members can opt out of receiving marketing or promotion-related emails or direct mail from United by accessing their account profile information on the United website and changing their profile to indicate their desire to be excluded. In addition, members can contact the MileagePlus Service Center by phone or in writing and request a profile change. Emails sent to members will contain a message and link on how to opt out of that type of communication in the future."
+        }, {
+            "category": "User Data Control",
+            "rank": "average",
+            "sentence": "If you are a MileagePlus member, you can create, view or update your MileagePlus account by accessing it through the MileagePlus profile section on united.com or by calling 1-800-421-4655. You may also update information relevant to your use of our mobile application(s) through the app itself."
+        }, {
+            "category": "Account Deletion",
+            "rank": "n/a",
+            "sentence": "n/a"
+        }, {
+            "category": "Data Collection",
+            "rank": "full",
+            "sentence": "We may collect information from you when you use our mobile application(s), including, but not limited to: name, email address, MileagePlus account information, government ID or passenger redress number, passport information and/or photograph, date of birth, payment information (e.g., credit card number, expiration date and billing name and address), if not already provided"
+        }
+    ],
+    "thewaltdisneycompany": [
+        {
+            "category": "Policy Changes",
+            "rank": "average",
+            "sentence": "From time to time, we may change this privacy policy to accommodate new technologies, industry practices, regulatory requirements or for other purposes. We will provide notice to you if these changes are material and, where required by applicable law, we will obtain your consent."
+        }, {
+            "category": "Data Security",
+            "rank": "good",
+            "sentence": "The security, integrity and confidentiality of your information are extremely important to us. We have implemented technical, administrative and physical security measures that are designed to protect guest information from unauthorized access, disclosure, use and modification"
+        }, {
+            "category": "3rd Party Sharing",
+            "rank": "no",
+            "sentence": "When companies perform services on our behalf, like package delivery and customer service; however, these companies are prohibited from using your personal information for purposes other than those requested by us or required by law"
+        }, {
+            "category": "Privacy Settings",
+            "rank": "good",
+            "sentence": "You may change your choices for subscriptions, newsletters and alerts. You may choose whether to receive from us offers and promotions for our products and services, or products and services that we think may be of interest to you. You may choose whether we share your personal information with other companies so they can send you offers and promotions about their products and services. You may choose whether to receive targeted advertising from many ad networks, data exchanges, marketing analytics and other service providers"
+        }, {
+            "category": "User Data Control",
+            "rank": "good",
+            "sentence": "You may request access to the personal information we hold about you and that we amend or delete it"
+        }, {
+            "category": "Account Deletion",
+            "rank": "full",
+            "sentence": "You may correct, update and delete your registration account"
+        }, {
+            "category": "Data Collection",
+            "rank": "full",
+            "sentence": "Transaction information you provide when you request information or purchase a product or service from us, whether on our sites or through our applications, including your postal address, telephone number and payment information"
+        }
+    ],
+    "rottentomatoes": [
+        {
+            "category": "Policy Changes",
+            "rank": "n/a",
+            "sentence": "n/a"
+        }, {
+            "category": "Data Security",
+            "rank": 0.20429541170597,
+            "sentence": "n/a"
+        }, {
+            "category": "3rd Party Sharing",
+            "rank": "n/a",
+            "sentence": "n/a"
+        }, {
+            "category": "Privacy Settings",
+            "rank": "n/a",
+            "sentence": "n/a"
+        }, {
+            "category": "User Data Control",
+            "rank": "n/a",
+            "sentence": "n/a"
+        }, {
+            "category": "Account Deletion",
+            "rank": "n/a",
+            "sentence": "n/a"
+        }, {
+            "category": "Data Collection",
+            "rank": "n/a",
+            "sentence": "n/a"
+        }
+    ],
+    "plex": [
+        {
+            "category": "Policy Changes",
+            "rank": "n/a",
+            "sentence": "n/a"
+        }, {
+            "category": "Data Security",
+            "rank": 0.95330137014389,
+            "sentence": "n/a"
+        }, {
+            "category": "3rd Party Sharing",
+            "rank": "n/a",
+            "sentence": "n/a"
+        }, {
+            "category": "Privacy Settings",
+            "rank": "n/a",
+            "sentence": "n/a"
+        }, {
+            "category": "User Data Control",
+            "rank": "n/a",
+            "sentence": "n/a"
+        }, {
+            "category": "Account Deletion",
+            "rank": "n/a",
+            "sentence": "n/a"
+        }, {
+            "category": "Data Collection",
+            "rank": "n/a",
+            "sentence": "n/a"
+        }
+    ],
+    "slack": [
+        {
+            "category": "Policy Changes",
+            "rank": "n/a",
+            "sentence": "n/a"
+        }, {
+            "category": "Data Security",
+            "rank": 0.997283935546875,
+            "sentence": "n/a"
+        }, {
+            "category": "3rd Party Sharing",
+            "rank": "n/a",
+            "sentence": "n/a"
+        }, {
+            "category": "Privacy Settings",
+            "rank": "n/a",
+            "sentence": "n/a"
+        }, {
+            "category": "User Data Control",
+            "rank": "n/a",
+            "sentence": "n/a"
+        }, {
+            "category": "Account Deletion",
+            "rank": "n/a",
+            "sentence": "n/a"
+        }, {
+            "category": "Data Collection",
+            "rank": "n/a",
+            "sentence": "n/a"
+        }
+    ],
+    "zotero": [
+        {
+            "category": "Policy Changes",
+            "rank": "n/a",
+            "sentence": "n/a"
+        }, {
+            "category": "Data Security",
+            "rank": 0.0010146516142413,
+            "sentence": "n/a"
+        }, {
+            "category": "3rd Party Sharing",
+            "rank": "n/a",
+            "sentence": "n/a"
+        }, {
+            "category": "Privacy Settings",
+            "rank": "n/a",
+            "sentence": "n/a"
+        }, {
+            "category": "User Data Control",
+            "rank": "n/a",
+            "sentence": "n/a"
+        }, {
+            "category": "Account Deletion",
+            "rank": "n/a",
+            "sentence": "n/a"
+        }, {
+            "category": "Data Collection",
+            "rank": "n/a",
+            "sentence": "n/a"
+        }
+    ],
+    "westpac": [
+        {
+            "category": "Policy Changes",
+            "rank": "n/a",
+            "sentence": "n/a"
+        }, {
+            "category": "Data Security",
+            "rank": 0.958234190940856,
+            "sentence": "n/a"
+        }, {
+            "category": "3rd Party Sharing",
+            "rank": "n/a",
+            "sentence": "n/a"
+        }, {
+            "category": "Privacy Settings",
+            "rank": "n/a",
+            "sentence": "n/a"
+        }, {
+            "category": "User Data Control",
+            "rank": "n/a",
+            "sentence": "n/a"
+        }, {
+            "category": "Account Deletion",
+            "rank": "n/a",
+            "sentence": "n/a"
+        }, {
+            "category": "Data Collection",
+            "rank": "n/a",
+            "sentence": "n/a"
+        }
+    ],
+    "steam": [
+        {
+            "category": "Policy Changes",
+            "rank": "n/a",
+            "sentence": "n/a"
+        }, {
+            "category": "Data Security",
+            "rank": 0.0875090658664703,
+            "sentence": "n/a"
+        }, {
+            "category": "3rd Party Sharing",
+            "rank": "n/a",
+            "sentence": "n/a"
+        }, {
+            "category": "Privacy Settings",
+            "rank": "n/a",
+            "sentence": "n/a"
+        }, {
+            "category": "User Data Control",
+            "rank": "n/a",
+            "sentence": "n/a"
+        }, {
+            "category": "Account Deletion",
+            "rank": "n/a",
+            "sentence": "n/a"
+        }, {
+            "category": "Data Collection",
+            "rank": "n/a",
+            "sentence": "n/a"
+        }
+    ],
+    "theverge": [
+        {
+            "category": "Policy Changes",
+            "rank": "n/a",
+            "sentence": "n/a"
+        }, {
+            "category": "Data Security",
+            "rank": 0.00386054581031203,
+            "sentence": "n/a"
+        }, {
+            "category": "3rd Party Sharing",
+            "rank": "n/a",
+            "sentence": "n/a"
+        }, {
+            "category": "Privacy Settings",
+            "rank": "n/a",
+            "sentence": "n/a"
+        }, {
+            "category": "User Data Control",
+            "rank": "n/a",
+            "sentence": "n/a"
+        }, {
+            "category": "Account Deletion",
+            "rank": "n/a",
+            "sentence": "n/a"
+        }, {
+            "category": "Data Collection",
+            "rank": "n/a",
+            "sentence": "n/a"
+        }
+    ],
+    "trademe": [
+        {
+            "category": "Policy Changes",
+            "rank": "n/a",
+            "sentence": "n/a"
+        }, {
+            "category": "Data Security",
+            "rank": 0.063946895301342,
+            "sentence": "n/a"
+        }, {
+            "category": "3rd Party Sharing",
+            "rank": "n/a",
+            "sentence": "n/a"
+        }, {
+            "category": "Privacy Settings",
+            "rank": "n/a",
+            "sentence": "n/a"
+        }, {
+            "category": "User Data Control",
+            "rank": "n/a",
+            "sentence": "n/a"
+        }, {
+            "category": "Account Deletion",
+            "rank": "n/a",
+            "sentence": "n/a"
+        }, {
+            "category": "Data Collection",
+            "rank": "n/a",
+            "sentence": "n/a"
+        }
+    ],
+    "jetstar": [
+        {
+            "category": "Policy Changes",
+            "rank": "n/a",
+            "sentence": "n/a"
+        }, {
+            "category": "Data Security",
+            "rank": 0.790130615234375,
+            "sentence": "n/a"
+        }, {
+            "category": "3rd Party Sharing",
+            "rank": "n/a",
+            "sentence": "n/a"
+        }, {
+            "category": "Privacy Settings",
+            "rank": "n/a",
+            "sentence": "n/a"
+        }, {
+            "category": "User Data Control",
+            "rank": "n/a",
+            "sentence": "n/a"
+        }, {
+            "category": "Account Deletion",
+            "rank": "n/a",
+            "sentence": "n/a"
+        }, {
+            "category": "Data Collection",
+            "rank": "n/a",
+            "sentence": "n/a"
+        }
+    ],
+    "unity": [
+        {
+            "category": "Policy Changes",
+            "rank": "n/a",
+            "sentence": "n/a"
+        }, {
+            "category": "Data Security",
+            "rank": 0.999642372131347,
+            "sentence": "n/a"
+        }, {
+            "category": "3rd Party Sharing",
+            "rank": "n/a",
+            "sentence": "n/a"
+        }, {
+            "category": "Privacy Settings",
+            "rank": "n/a",
+            "sentence": "n/a"
+        }, {
+            "category": "User Data Control",
+            "rank": "n/a",
+            "sentence": "n/a"
+        }, {
+            "category": "Account Deletion",
+            "rank": "n/a",
+            "sentence": "n/a"
+        }, {
+            "category": "Data Collection",
+            "rank": "n/a",
+            "sentence": "n/a"
+        }
+    ],
+    "telegram": [
+        {
+            "category": "Policy Changes",
+            "rank": "n/a",
+            "sentence": "n/a"
+        }, {
+            "category": "Data Security",
+            "rank": 0.551778733730316,
+            "sentence": "n/a"
+        }, {
+            "category": "3rd Party Sharing",
+            "rank": "n/a",
+            "sentence": "n/a"
+        }, {
+            "category": "Privacy Settings",
+            "rank": "n/a",
+            "sentence": "n/a"
+        }, {
+            "category": "User Data Control",
+            "rank": "n/a",
+            "sentence": "n/a"
+        }, {
+            "category": "Account Deletion",
+            "rank": "n/a",
+            "sentence": "n/a"
+        }, {
+            "category": "Data Collection",
+            "rank": "n/a",
+            "sentence": "n/a"
+        }
+    ],
+    "reddit": [
+        {
+            "category": "Policy Changes",
+            "rank": "n/a",
+            "sentence": "n/a"
+        }, {
+            "category": "Data Security",
+            "rank": 0.720821678638458,
+            "sentence": "n/a"
+        }, {
+            "category": "3rd Party Sharing",
+            "rank": "n/a",
+            "sentence": "n/a"
+        }, {
+            "category": "Privacy Settings",
+            "rank": "n/a",
+            "sentence": "n/a"
+        }, {
+            "category": "User Data Control",
+            "rank": "n/a",
+            "sentence": "n/a"
+        }, {
+            "category": "Account Deletion",
+            "rank": "n/a",
+            "sentence": "n/a"
+        }, {
+            "category": "Data Collection",
+            "rank": "n/a",
+            "sentence": "n/a"
+        }
+    ],
+    "qualtrics": [
+        {
+            "category": "Policy Changes",
+            "rank": "n/a",
+            "sentence": "n/a"
+        }, {
+            "category": "Data Security",
+            "rank": 0.970434069633483,
+            "sentence": "n/a"
+        }, {
+            "category": "3rd Party Sharing",
+            "rank": "n/a",
+            "sentence": "n/a"
+        }, {
+            "category": "Privacy Settings",
+            "rank": "n/a",
+            "sentence": "n/a"
+        }, {
+            "category": "User Data Control",
+            "rank": "n/a",
+            "sentence": "n/a"
+        }, {
+            "category": "Account Deletion",
+            "rank": "n/a",
+            "sentence": "n/a"
+        }, {
+            "category": "Data Collection",
+            "rank": "n/a",
+            "sentence": "n/a"
+        }
+    ],
+    "brave": [
+        {
+            "category": "Policy Changes",
+            "rank": "n/a",
+            "sentence": "n/a"
+        }, {
+            "category": "Data Security",
+            "rank": 0.683334410190582,
+            "sentence": "n/a"
+        }, {
+            "category": "3rd Party Sharing",
+            "rank": "n/a",
+            "sentence": "n/a"
+        }, {
+            "category": "Privacy Settings",
+            "rank": "n/a",
+            "sentence": "n/a"
+        }, {
+            "category": "User Data Control",
+            "rank": "n/a",
+            "sentence": "n/a"
+        }, {
+            "category": "Account Deletion",
+            "rank": "n/a",
+            "sentence": "n/a"
+        }, {
+            "category": "Data Collection",
+            "rank": "n/a",
+            "sentence": "n/a"
+        }
+    ],
+    "adobe": [
+        {
+            "category": "Policy Changes",
+            "rank": "n/a",
+            "sentence": "n/a"
+        }, {
+            "category": "Data Security",
+            "rank": 0.270691692829132,
+            "sentence": "n/a"
+        }, {
+            "category": "3rd Party Sharing",
+            "rank": "n/a",
+            "sentence": "n/a"
+        }, {
+            "category": "Privacy Settings",
+            "rank": "n/a",
+            "sentence": "n/a"
+        }, {
+            "category": "User Data Control",
+            "rank": "n/a",
+            "sentence": "n/a"
+        }, {
+            "category": "Account Deletion",
+            "rank": "n/a",
+            "sentence": "n/a"
+        }, {
+            "category": "Data Collection",
+            "rank": "n/a",
+            "sentence": "n/a"
+        }
+    ],
+    "snapchat": [
+        {
+            "category": "Policy Changes",
+            "rank": "n/a",
+            "sentence": "n/a"
+        }, {
+            "category": "Data Security",
+            "rank": 0.637055993080139,
+            "sentence": "n/a"
+        }, {
+            "category": "3rd Party Sharing",
+            "rank": "n/a",
+            "sentence": "n/a"
+        }, {
+            "category": "Privacy Settings",
+            "rank": "n/a",
+            "sentence": "n/a"
+        }, {
+            "category": "User Data Control",
+            "rank": "n/a",
+            "sentence": "n/a"
+        }, {
+            "category": "Account Deletion",
+            "rank": "n/a",
+            "sentence": "n/a"
+        }, {
+            "category": "Data Collection",
+            "rank": "n/a",
+            "sentence": "n/a"
+        }
+    ],
+    "anz": [
+        {
+            "category": "Policy Changes",
+            "rank": "n/a",
+            "sentence": "n/a"
+        }, {
+            "category": "Data Security",
+            "rank": 0.00102266727481037,
+            "sentence": "n/a"
+        }, {
+            "category": "3rd Party Sharing",
+            "rank": "n/a",
+            "sentence": "n/a"
+        }, {
+            "category": "Privacy Settings",
+            "rank": "n/a",
+            "sentence": "n/a"
+        }, {
+            "category": "User Data Control",
+            "rank": "n/a",
+            "sentence": "n/a"
+        }, {
+            "category": "Account Deletion",
+            "rank": "n/a",
+            "sentence": "n/a"
+        }, {
+            "category": "Data Collection",
+            "rank": "n/a",
+            "sentence": "n/a"
+        }
+    ],
+    "imdb": [
+        {
+            "category": "Policy Changes",
+            "rank": "n/a",
+            "sentence": "n/a"
+        }, {
+            "category": "Data Security",
+            "rank": 0.983524680137634,
+            "sentence": "n/a"
+        }, {
+            "category": "3rd Party Sharing",
+            "rank": "n/a",
+            "sentence": "n/a"
+        }, {
+            "category": "Privacy Settings",
+            "rank": "n/a",
+            "sentence": "n/a"
+        }, {
+            "category": "User Data Control",
+            "rank": "n/a",
+            "sentence": "n/a"
+        }, {
+            "category": "Account Deletion",
+            "rank": "n/a",
+            "sentence": "n/a"
+        }, {
+            "category": "Data Collection",
+            "rank": "n/a",
+            "sentence": "n/a"
+        }
+    ]
+}

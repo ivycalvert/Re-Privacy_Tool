@@ -1,0 +1,292 @@
+/*
+** file: css/main.css
+** description: custom styling for "html/main.html" file
+*/
+
+/* reset css */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    width: 300px;
+    /* width: 22em; */
+    height: auto;
+}
+
+h1 {
+    font-family: 'PT Sans Narrow', sans-serif;
+    text-transform: uppercase;
+    font-size: 25px;
+    word-wrap: break-word;
+    padding-top: 60px;
+    padding-bottom: 12px;
+}
+
+h2 {
+    font-size: 20px;
+    font-family: 'PT Sans Narror', sans-serif;
+    text-transform: uppercase;
+    text-align: center;
+    line-height: 1.2;
+}
+
+h3 {
+    font-family: 'PT Sans Narrow', sans-serif;
+    text-transform: uppercase;
+    font-size: 15px;
+    padding: 0;
+    color: rgb(77, 77, 77);
+    text-align: center;
+}
+
+h4 {
+    font-family: 'PT Sans Narrow', sans-serif;
+    text-transform: uppercase;
+    color: rgb(77, 77, 77);
+    text-align: center;
+}
+
+h5 {
+    /* all: unset; */
+    font-family: 'PT Sans Narrow', sans-serif;
+    text-transform: uppercase;
+    color: rgb(77, 77, 77);
+    text-align: center;
+    display: inline-block;
+}
+
+p {
+    /* all: unset; */
+    font-family: 'Open Sans', sans-serif;
+    padding: 10px;
+    /* font-size: 0.85rem; */
+    font-size: 11px;
+    color: rgb(77, 77, 77);
+}
+
+p.disclaimer {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 0.75rem;
+    /* font-size: 10px; */
+    font-style: italic;
+    text-align: center;
+    padding: 15px;
+    color: rgb(77, 77, 77);
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    max-width: 300px;
+}
+
+footer {
+    /* border: 1px red solid; */
+    width: 100%;
+    padding: 10px;
+    margin-top: 10px;
+    background: linear-gradient(rgb(210, 201, 202), rgb(230, 230, 230));
+    /* cursor: pointer; */
+}
+
+#header {
+    text-align: center;
+    width: 100%;
+    /* background: linear-gradient(rgb(252, 74, 26), rgb(247, 183, 51)); */
+    color: white;
+    margin-bottom: 10px;
+    margin-top: 0;
+    /* display: inline-block; */
+}
+
+#website {
+    margin: 15px;
+    overflow: auto;
+}
+
+.section-element .content-header {
+    padding: 10px;
+    cursor: pointer;
+    /* margin: 10px 30px 0px; */
+    /* border: 1px solid red; */
+}
+
+.content-header {
+    display: inline-block;
+    text-align: center;
+}
+
+.content-section {
+    display: none;
+    /* text-align: center; */
+}
+
+.content-section.visible {
+    height: auto;
+    /* padding: 10px 20px 20px; */
+    /* margin: 0px 30px; */
+    overflow: auto;
+    /* border: 1px solid red; */
+}
+
+.section-element {
+    background: linear-gradient(rgb(210, 201, 202), rgb(230, 230, 230));
+    margin: 5px 20px 5px;
+    padding: 0px;
+    border-radius: 10px;
+    border: 4px solid grey;
+    /* border: var(--toggledBorder); */
+    /* border: red solid 1px; */
+}
+
+.section-element:hover {
+    background: linear-gradient(rgb(197, 189, 190), rgb(204, 204, 204));
+    cursor: pointer;
+}
+
+img {
+    /* all: unset; */
+    width: 14%;
+    display: inline-block;
+    text-align: center;
+    margin: auto;
+    padding-right: 12px;
+}
+
+.centered {
+    text-align: center;
+}
+
+.orient-left {
+    text-align: left;
+}
+
+.orient{
+    padding-left: 50px;
+}
+
+.list-orient {
+    padding-left: 30px;
+}
+
+.icon {
+    all: unset;
+    vertical-align: middle;
+    width: 10%;
+    display: inline-block;
+    margin: 0px;
+    padding: 0px;
+    padding-left: 10px;
+    /* border: 1px solid red; */
+}
+
+a {
+    text-decoration: none;
+}
+
+a h4 {
+    padding-top: 5px;
+}
+
+#disclaimer-content p {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 0.75rem;
+    /* font-size: 10px; */
+    font-style: italic;
+    /* text-align: center; */
+    padding: 15px;
+    color: rgb(77, 77, 77);
+}
+
+.floating-back {
+    all: unset;
+    text-decoration: none;
+    /* position: fixed; */
+    /* display: inline-block; */
+    margin-top: 5px;;
+    /* float: right; */
+    margin-left: 250px;
+    /* width: 3.5rem; */
+    opacity: 0.75;
+    -webkit-transition: background-color 0.3s ease;
+    -moz-transition: background-color 0.3s ease;
+    -o-transition: background-color 0.3s ease;
+    transition: background-color 0.3s ease;
+}
+  
+.floating-back:hover {
+    opacity: 1;
+}
+
+#info-icon {
+    all: unset;
+    width: 20px;
+    padding-top: 15px;
+    float: right;
+    padding-right: 10px;
+    height: auto;
+    /* border: 1px red solid; */
+    opacity: 0.75;
+    -webkit-transition: background-color 0.3s ease;
+    -moz-transition: background-color 0.3s ease;
+    -o-transition: background-color 0.3s ease;
+    transition: background-color 0.3s ease;
+}
+
+#info-icon:hover {
+    opacity: 1;
+}
+
+#back-icon {
+    all: unset;
+    width: 20px;
+    padding-top: 10px;
+    float: right;
+    padding-right: 10px;
+    /* width: 10%; */
+    height: auto;
+    /* position: absolute; */
+    /* z-index: 10; */
+    /* border: 1px red solid; */
+}
+
+#rankClass {
+    all: unset;
+    text-decoration: none;
+    margin-top: 15px;;
+    float: left;
+    margin-left: 10px;
+    width: 20px;
+    opacity: 0.75;
+}
+
+/* div#main-outer {
+    margin: 5px;
+    background: #DDD;
+    border-radius: 5px;
+}
+
+div#main-inner {
+    padding: 8px;
+}
+
+div#main-title {
+    font-size: 16px;
+    text-align: center;
+    font-weight: bold;
+}
+
+img#main-image {
+    display: block;
+    margin-top: 5px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+div#main-about-text {
+    margin-top: 10px;
+    text-align: center;
+} */
