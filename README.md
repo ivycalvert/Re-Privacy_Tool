@@ -108,6 +108,8 @@ Only some of these websites listed will show positive/negative responses, as the
 
 The Machine Learning system is not required to be run on the local system in order to experience the browser extension tool, and has since NOT been included in this repository. However, the above listed automatically ranked websites were ranked using this system. 
 
+This project was developed using a macOS system (version 10.13.5) and Google Chrome (version 67.0.3396.99). 
+
 ## Built With
 
 * [spaCy](https://spacy.io/usage/training#textcat) - The spaCy machine learning system which was reappropriated for building the model included in this project can be found via this link. The installation and running of this system can also be found via this link for those more curious about the machine learning model that was designed and incorporated in this tool. However, this demands a higher level of understanding of the technical aspects and is not required for the running of the current version of this tool.
