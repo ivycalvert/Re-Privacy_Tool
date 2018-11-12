@@ -17,7 +17,7 @@ A step by step series of examples that tell you how to get a development env run
 Download this repository as a zip
 
 ```
-This can be done via the green "Clone or Dowload" button found on the right of the screen
+This can be done via the green "Clone or Download" button found on the right of the screen
 
 Once the download has been completed, "unzip" the downloaded file
 ```
@@ -42,7 +42,7 @@ Select the "Load Unpackaged" link located in the page center.
 Select the unzip tool file that you have just downloaded onto your computer and click "Select" in the popup window
 ```
 
-The "Re: Privacy" browser extension tool is now uploaded to your local version of Google Chrome. It will appear on your extension toolbar and ba activated when you click on the icon
+The "Re: Privacy" browser extension tool is now uploaded to your local version of Google Chrome. It will appear on your extension toolbar and be activated when you click on the icon
 
 ```
 Ensure the extension tool is "on": Check that the toggle slider (similar in visuals to the one seen when "developer mode" was turned on), it will appear BLUE when the extesnion is active/on. 
